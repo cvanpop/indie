@@ -1,0 +1,80 @@
+
+
+h1 {
+    color: white;
+    background-color: black;
+    font-family: Helvetica, Verdana;
+}
+h2 {
+    color: white;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    font-style: italic;
+}
+p {
+    font-family:Veranda, sans-serif;
+}
+
+ul {
+    font-family: Veranda, sans-serif;}
+
+body {
+    
+    
+    background-image: url("../images/lotus.jpg");
+}
+#logo {
+    background-color: #ABD6D6;
+    width: 200px;
+    height: 50px;
+    
+}
+
+
+#navbar {
+    background-color: #CAABD6;
+    width: 1100px;
+    height: 50px;
+    float: left;
+    margin-left: 205px;
+      
+}
+
+#navleft {
+    background-color: #ABD6D6;
+    width: 200px;
+    height: 600px;
+    float: left;
+    margin-top: 5px
+}
+
+#main {
+    background-color: #9AEDB7;
+    width: 1100px;
+    
+  margin-left: 205px;
+   
+    
+    }
+    
+#navleftbuttons {
+    border-style: solid
+    padding:20px 40px 30px 40px;
+    background-color: #676B68;
+    color:black;
+    margin-bottom: 5px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    font-family: Veranda; sans-serif;
+    text-align: center;
+}
+
+/*removed the background-color/*
+#container {
+    background-color: #6E6E6E;
+    width: 1300px;
+    height: 600px;
+    margin: 5px
+}
+
